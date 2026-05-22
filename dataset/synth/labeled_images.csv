@@ -1,0 +1,12 @@
+filename,label_edge,label_target_yaw,label_l_p_of_collision,label_c_p_of_collision,label_r_p_of_collision
+img_0.png,E_label.NO_EDGE,0.0,True,True,True
+img_1.png,E_label.NO_EDGE,0.0,False,False,False
+img_2.png,E_label.EDGE,0.4567176408663367,False,True,True
+img_3.png,E_label.EDGE,-0.17836437184762463,False,False,False
+img_4.png,E_label.NO_EDGE,0.0,False,True,True
+img_5.png,E_label.EDGE,0.6435461237036197,False,True,True
+img_6.png,E_label.EDGE,-0.4051075155501922,False,False,False
+img_7.png,E_label.EDGE,-0.08807619863347303,True,True,True
+img_8.png,E_label.EDGE,0.71853886284468,False,False,False
+img_9.png,E_label.NO_EDGE,0.0,True,True,True
+img_10.png,E_label.EDGE,0.4313227166393985,True,False,True
